@@ -1,0 +1,1 @@
+to run, insert the iris-training as the first argument and and iris-test as the second and run the main class
